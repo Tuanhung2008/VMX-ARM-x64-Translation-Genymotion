@@ -21,3 +21,4 @@ ro.dalvik.vm.isa.arm64=x86_64
 ro.zygote=zygote64_32
 ```
 ## Step 2 : Install Lib in folder "lib" and flash archive into your VM
+> Download the lib [here](https://www.mediafire.com/file/dg3duvzw0l4i0pn/system.zip/file)
